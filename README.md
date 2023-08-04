@@ -1,4 +1,7 @@
-# Welcome to Remix!
+# Decensha Admin Panel
+This is the repository, the frontend of Decensha Server Admin Panel
+
+# Remix Instructions
 
 - [Remix Docs](https://remix.run/docs)
 
