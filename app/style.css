@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/Nunito-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Nunito';
+    color: white;
+    background-color: #1e1804;
+    user-select: none;
+    -webkit-user-select: none;
+}
