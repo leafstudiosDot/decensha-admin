@@ -1,7 +1,10 @@
 # Decensha Admin Panel
 This is the repository, the frontend of Decensha Server Admin Panel
 
-# Remix Instructions
+## Instructions
+If you are developing on this repo, you must have cloned [Decensha Server source code](https://github.com/leafstudiosDot/decensha) on your local machine then run `docker-compose up -d` in the server source code.
+
+# Remix Instructions (from Remix Docs)
 
 - [Remix Docs](https://remix.run/docs)
 
