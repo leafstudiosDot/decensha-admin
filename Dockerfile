@@ -9,7 +9,7 @@ RUN apt-get install -y \
     build-essential \
     curl
 
-RUN curl -sL https://deb.nodesource.com/setup_19.x | bash -
+RUN curl -sL https://deb.nodesource.com/setup_20.x | bash -
 
 RUN apt-get install -y nodejs
 RUN npm install -g npm@latest
